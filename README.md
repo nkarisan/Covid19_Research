@@ -1,5 +1,5 @@
  This is the repository of the paper:<br/>
- Negin Karisani, Payam Karisani. 2020. *Mining Coronavirus (COVID-19) Posts in Social Media*, arXiv preprint. [Temporary Link](http://www.mathcs.emory.edu/~pkarisa/corona-pdf.pdf)
+ Negin Karisani, Payam Karisani. 2020. *Mining Coronavirus (COVID-19) Posts in Social Media*, [arXiv](https://arxiv.org/abs/2004.06778)
 
 <br/>
 
