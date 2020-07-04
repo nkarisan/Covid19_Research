@@ -3,7 +3,7 @@
 
 <br/>
 
-You can access our dataset and pre-trained BERT model [here](https://drive.google.com/open?id=1XR9h73sD8gP9Iil53k_IvDH_aV7D00TI).
+You can access our dataset and pre-trained BERT model [here](https://figshare.com/articles/dataset/Mining_Coronavirus_COVID-19_Posts_in_Social_Media/12597755).
 
 <br/>
 
@@ -11,7 +11,7 @@ A short description of the files: <br/>
 - tweet_ids.txt.zip: Conatins the tweet ids mentioned in the paper. One tweet id per line.
 - bert-base-uncased-corona.zip: The pre-trained BERT model discussed in the paper. We used the pytorch implementation of BERT, available at huggingface Github [page](https://github.com/huggingface/transformers).
 
-We have uploaded the updated dataset,  [here](https://drive.google.com/open?id=1UT3m4B1Nj3mc2RgpB3qbpsnPUi79GrZ2). It contains about 9 million tweets published between Jan 27 and April 20, see the paper for more details,
+We have uploaded the updated dataset,  [here](https://figshare.com/articles/dataset/Mining_Coronavirus_COVID-19_Posts_in_Social_Media/12597755). It contains about 9 million tweets published between Jan 27 and April 20, see the paper for more details,
 
 
 
