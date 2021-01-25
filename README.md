@@ -13,6 +13,15 @@ A short description of the files: <br/>
 
 We have uploaded the updated dataset,  [here](https://figshare.com/articles/dataset/Mining_Coronavirus_COVID-19_Posts_in_Social_Media/12597755). It contains about 9 million tweets published between Jan 27 and April 20, see the paper for more details.
 
+Cite at
+
+@article{KKmining,
+  title={Mining coronavirus (covid-19) posts in social media},
+  author={Karisani, Negin and Karisani, Payam},
+  journal={arXiv preprint arXiv:2004.06778},
+  year={2020}
+}
+
 
 ----
 skip
