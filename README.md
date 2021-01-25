@@ -16,15 +16,10 @@ We have uploaded the updated dataset,  [here](https://figshare.com/articles/data
 Cite at:
 
 @article{2020arxiv,
-
   title={Mining coronavirus (covid-19) posts in social media},
-  
   author={Karisani, Negin and Karisani, Payam},
-  
-  journal={arXiv preprint arXiv:2004.06778},
-  
+  journal={arXiv preprint arXiv:2004.06778},  
   year={2020}
-  
 }
 
 
