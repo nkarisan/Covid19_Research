@@ -19,7 +19,8 @@ Please use the citation below:
   title={Mining coronavirus (covid-19) posts in social media},
   author={Karisani, Negin and Karisani, Payam},
   journal={arXiv preprint arXiv:2004.06778},  
-  year={2020}
+  year={2020},
+  url={https://arxiv.org/abs/2004.06778}
 }
 ```
 
