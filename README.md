@@ -25,8 +25,5 @@ Please use the citation below:
 ```
 
 ----
-skip
-[t1](https://www.mdpi.com/1999-4893/13/12/339/htm),[t2](https://www.mdpi.com/2227-9709/7/3/35/htm)
-
 
 
